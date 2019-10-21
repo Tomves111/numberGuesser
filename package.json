@@ -1,0 +1,18 @@
+{
+  "name": "numberguesser",
+  "version": "1.0.0",
+  "description": "numberguesser ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "numberGuesser"
+  },
+  "author": "TV",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
